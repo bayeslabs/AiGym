@@ -4,4 +4,4 @@ Some lectures presentations and problem sets are uploaded above. Follow the belo
 http://web.stanford.edu/class/cme193/
 
 
-Github pages : for getting all class notebooks: https://github.com/icme/cme193/tree/gh-pages/nb
+Github page for all CME 193 class notebooks: https://github.com/icme/cme193/tree/gh-pages/nb

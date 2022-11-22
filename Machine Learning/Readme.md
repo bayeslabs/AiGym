@@ -10,7 +10,7 @@ Some curated assignments and solutions shared above. -->
 ## Course List
 **S.No** | **Course Title** | **Link to course** | **Link to Assignment Solutions**
 ------------ | ------------- | --------- | -----------
-[1](#1-machine-learning) | Machine Learning | https://cs229.stanford.edu/ | https://github.com/huyfam/cs229-solutions-2020
+[1](#1-machine-learning) | Machine Learning | https://cs229.stanford.edu/ | [CS229 Assignment Solutions](https://github.com/huyfam/cs229-solutions-2020)
 <!-- [2](#2-deep-learning-for-computer-vision) | Deep Learning for Computer Vision | http://cs231n.stanford.edu/ -->
 
 
